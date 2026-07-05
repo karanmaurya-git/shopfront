@@ -2,9 +2,11 @@
 
 > A modern full-stack MERN E-commerce platform built with MongoDB, Express, React, and Node.js.
 
-## 🧭 Overview
+## 🌐 View Live 
 
-Shopfront is a full-stack MERN E-Commerce platform built to handle a complete shopping experience — from product discovery and flash sales to checkout, order tracking, and a full admin command center for running the store.
+🛍️ **Shopfront:** [🔗 Visit Live](https://shopfront-navy.vercel.app)
+
+⚙️ **Backend API:** [🔗 Visit API](https://shopfront-backend-bfl4.onrender.com)
 
 ## ✨ Features
 - JWT Authentication & Role-Based Authorization
