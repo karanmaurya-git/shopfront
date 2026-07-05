@@ -2,11 +2,11 @@
 
 > A modern full-stack MERN E-commerce platform built with MongoDB, Express, React, and Node.js.
 
-## 🌐 View Live 
+## 🌐 View Live
 
-🛍️ **Shopfront:** [🔗 Visit Live](https://shopfront-navy.vercel.app)
+[![View Live](https://img.shields.io/badge/🛍️_Shopfront-View_Live-success?style=for-the-badge)](https://shopfront-navy.vercel.app)
 
-⚙️ **Backend API:** [🔗 Visit API](https://shopfront-backend-bfl4.onrender.com)
+[![Backend API](https://img.shields.io/badge/🖥️_Backend-Server-blue?style=for-the-badge)](https://shopfront-backend-bfl4.onrender.com)
 
 ## ✨ Features
 - JWT Authentication & Role-Based Authorization
