@@ -131,9 +131,9 @@ Licensed under the MIT License.
 
 **Karan Maurya**
 
-GitHub: karanmaurya-git(https://github.com/karanmaurya-git)
+GitHub: [@karanmaurya-git](https://github.com/karanmaurya-git)
 
-LinkedIn: karan-maurya-4260b6293(https://www.linkedin.com/in/karan-maurya-4260b6293/)
+LinkedIn: [karan-maurya-4260b6293](https://www.linkedin.com/in/karan-maurya-4260b6293/)
 
 ---
 
